@@ -11,7 +11,7 @@ int main() {
 	for (int number : numbers) {
 		std::cout << number << ' ';
 	}
-	std::cout << '\n';
+	std::cout << '\n ';
 
 	return 0;
 }
